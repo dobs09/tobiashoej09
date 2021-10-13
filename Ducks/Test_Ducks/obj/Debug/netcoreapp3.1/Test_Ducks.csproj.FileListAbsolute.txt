@@ -1,0 +1,13 @@
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\obj\Debug\netcoreapp3.1\Test_Ducks.csprojAssemblyReference.cache
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\obj\Debug\netcoreapp3.1\Test_Ducks.AssemblyInfoInputs.cache
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\obj\Debug\netcoreapp3.1\Test_Ducks.AssemblyInfo.cs
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\obj\Debug\netcoreapp3.1\Test_Ducks.csproj.CoreCompileInputs.cache
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\bin\Debug\netcoreapp3.1\Test_Ducks.exe
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\bin\Debug\netcoreapp3.1\Test_Ducks.deps.json
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\bin\Debug\netcoreapp3.1\Test_Ducks.runtimeconfig.json
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\bin\Debug\netcoreapp3.1\Test_Ducks.runtimeconfig.dev.json
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\bin\Debug\netcoreapp3.1\Test_Ducks.dll
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\bin\Debug\netcoreapp3.1\Test_Ducks.pdb
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\obj\Debug\netcoreapp3.1\Test_Ducks.dll
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\obj\Debug\netcoreapp3.1\Test_Ducks.pdb
+C:\Users\jjb5tr\Desktop\Git_T\Ducks\Test_Ducks\obj\Debug\netcoreapp3.1\Test_Ducks.genruntimeconfig.cache
